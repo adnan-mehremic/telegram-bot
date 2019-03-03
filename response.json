@@ -1,6 +1,14 @@
-{
+[
+  {
   "body": "Zauzeta sam, imam momka \"Ideš na block!\"",
   "id": "prvi",
   "score": 1,
   "title": "Odakle ti moj broj?"
-}
+},
+  {"body": "Zauzeta sam, imam momka \"Ideš na block!\"",
+  "id": "drugi",
+  "score": 2,
+  "title": "Odakle ti moj broj?"
+  }
+
+]
